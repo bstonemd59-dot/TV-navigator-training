@@ -7,7 +7,7 @@ import { RadioGroup, RadioGroupItem } from '@/app/components/ui/radio-group';
 import { Label } from '@/app/components/ui/label';
 import { AlertCircle, CheckCircle2, BarChart3, TrendingUp, Target, Award } from 'lucide-react';
 import { Alert, AlertDescription } from '@/app/components/ui/alert';
-import metricsImage from 'figma:asset/da436306a4f5fd02bffd4e9438c09b6878455fd3.png';
+//import metricsImage from 'figma:asset/da436306a4f5fd02bffd4e9438c09b6878455fd3.png';
 
 interface Module5Props {
   onComplete: () => void;

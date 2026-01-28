@@ -7,7 +7,7 @@ import { RadioGroup, RadioGroupItem } from '@/app/components/ui/radio-group';
 import { Label } from '@/app/components/ui/label';
 import { AlertCircle, CheckCircle2, UserCheck, Heart, Stethoscope, GraduationCap, Users, MessageSquare, Shield } from 'lucide-react';
 import { Alert, AlertDescription } from '@/app/components/ui/alert';
-import ctnRolesImage from 'figma:asset/85a8925c470d1034e71f65d6aed16bfd6006637b.png';
+//import ctnRolesImage from 'figma:asset/85a8925c470d1034e71f65d6aed16bfd6006637b.png';
 
 interface Module3Props {
   onComplete: () => void;

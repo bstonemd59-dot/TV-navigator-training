@@ -4,7 +4,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/app/components/ui/ta
 import { Badge } from '@/app/components/ui/badge';
 import { BookOpen, GraduationCap, CheckCircle2 } from 'lucide-react';
 import { Alert, AlertDescription } from '@/app/components/ui/alert';
-import logoImage from 'figma:asset/8626dd8a35e768b09f1e50494092357b2084e0b6.png';
+//import logoImage from 'figma:asset/8626dd8a35e768b09f1e50494092357b2084e0b6.png';
 
 interface InstructorGuideProps {
   onBack: () => void;

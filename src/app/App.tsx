@@ -11,7 +11,7 @@ import Module3 from '@/app/components/Module3';
 import Module4 from '@/app/components/Module4';
 import Module5 from '@/app/components/Module5';
 import InstructorGuide from '@/app/components/InstructorGuide';
-import logoImage from 'figma:asset/8626dd8a35e768b09f1e50494092357b2084e0b6.png';
+//import logoImage from 'figma:asset/8626dd8a35e768b09f1e50494092357b2084e0b6.png';
 
 export default function App() {
   const [activeModule, setActiveModule] = useState<string | null>(null);
@@ -116,7 +116,7 @@ export default function App() {
         {/* Header */}
         <div className="text-center mb-12">
           <div className="flex justify-center mb-6">
-            <img src={logoImage} alt="TruVision Clinical Research" className="h-24" />
+            {/* <img src={logoImage} alt="TruVision Clinical Research" className="h-24" /> */}
           </div>
           <h1 className="text-5xl mb-4">
             TruVision Clinical Navigator Training

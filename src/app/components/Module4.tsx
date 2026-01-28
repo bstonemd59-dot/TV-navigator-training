@@ -7,7 +7,7 @@ import { RadioGroup, RadioGroupItem } from '@/app/components/ui/radio-group';
 import { Label } from '@/app/components/ui/label';
 import { AlertCircle, CheckCircle2, Clipboard, Phone, Calendar, FileText, Clock, Target } from 'lucide-react';
 import { Alert, AlertDescription } from '@/app/components/ui/alert';
-import navigationActivitiesImage from 'figma:asset/2384bc9bc32c819b3b6af4bc5a015274f6332070.png';
+//import navigationActivitiesImage from 'figma:asset/2384bc9bc32c819b3b6af4bc5a015274f6332070.png';
 
 interface Module4Props {
   onComplete: () => void;
