@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24872561/README.md)
 
   # Clinical Navigator Training Course
 
